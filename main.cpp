@@ -3,7 +3,6 @@
 
 using namespace std;
 string s;
-int a=0;
 int suma=0;
 bool palindrom (string s)
 {
